@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leo71\\source\\repos\\NewsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|c:\\users\\leo71\\source\\repos\\newsapp\\newsapp\\network\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|solutionrelative:newsapp\\network\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|c:\\users\\leo71\\source\\repos\\newsapp\\newsapp\\controller\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|solutionrelative:newsapp\\controller\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|c:\\users\\leo71\\source\\repos\\newsapp\\newsapp\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|solutionrelative:newsapp\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|c:\\users\\leo71\\source\\repos\\newsapp\\newsapp\\network\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|solutionrelative:newsapp\\network\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|C:\\Users\\leo71\\source\\repos\\NewsApp\\newsapp\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|solutionrelative:newsapp\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|C:\\Users\\leo71\\source\\repos\\NewsApp\\newsapp\\ui\\newarticalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|solutionrelative:newsapp\\ui\\newarticalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|C:\\Users\\leo71\\source\\repos\\NewsApp\\newsapp\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|solutionrelative:newsapp\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|C:\\Users\\leo71\\source\\repos\\NewsApp\\newsapp\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|solutionrelative:newsapp\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|C:\\Users\\leo71\\source\\repos\\NewsApp\\newsapp\\ui\\articleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5B6D9F2-9323-45E2-A51E-A0FC8CC689AC}|NewsApp\\NewsApp.csproj|solutionrelative:newsapp\\ui\\articleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\Network\\Security.cs",
+              "RelativeDocumentMoniker": "NewsApp\\Network\\Security.cs",
+              "ToolTip": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\Network\\Security.cs",
+              "RelativeToolTip": "NewsApp\\Network\\Security.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:47:33.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\Controller\\UserManager.cs",
+              "RelativeDocumentMoniker": "NewsApp\\Controller\\UserManager.cs",
+              "ToolTip": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\Controller\\UserManager.cs",
+              "RelativeToolTip": "NewsApp\\Controller\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:46:15.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\Data\\User.cs",
+              "RelativeDocumentMoniker": "NewsApp\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\Data\\User.cs",
+              "RelativeToolTip": "NewsApp\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:45:27.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientSocket.cs",
+              "DocumentMoniker": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\Network\\ClientSocket.cs",
+              "RelativeDocumentMoniker": "NewsApp\\Network\\ClientSocket.cs",
+              "ToolTip": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\Network\\ClientSocket.cs",
+              "RelativeToolTip": "NewsApp\\Network\\ClientSocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:44:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "NewsApp\\UI\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "NewsApp\\UI\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:42:58.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "NewsApp\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "NewsApp\\UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:44:26.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "NewsApp\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "NewsApp\\UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:42:27.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewArticalForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\NewArticalForm.cs",
+              "RelativeDocumentMoniker": "NewsApp\\UI\\NewArticalForm.cs",
+              "ToolTip": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\NewArticalForm.cs [Design]",
+              "RelativeToolTip": "NewsApp\\UI\\NewArticalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:40:37.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\ArticleForm.cs",
+              "RelativeDocumentMoniker": "NewsApp\\UI\\ArticleForm.cs",
+              "ToolTip": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\UI\\ArticleForm.cs [Design]",
+              "RelativeToolTip": "NewsApp\\UI\\ArticleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T07:44:23.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
