@@ -10,18 +10,13 @@ using System.Windows.Forms;
 
 namespace NewsApp.UI
 {
-    public partial class NewArticalForm : Form
+    public partial class ProfileForm : Form
     {
-        public NewArticalForm()
+        public ProfileForm()
         {
             InitializeComponent();
         }
 
-        private void Form2_Load(object sender, EventArgs e)
-        {
 
-        }
-
- 
     }
 }
