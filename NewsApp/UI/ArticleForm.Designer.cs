@@ -28,31 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ArticleForm));
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             lbTitle = new Label();
             splitContainer1 = new SplitContainer();
-            guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             textBoxContent = new Guna.UI2.WinForms.Guna2TextBox();
-            panelAddComment = new Guna.UI2.WinForms.Guna2Panel();
-            btnPostComment = new Guna.UI2.WinForms.Guna2Button();
-            textBoxtWriteComment = new Guna.UI2.WinForms.Guna2TextBox();
             flpComment = new FlowLayoutPanel();
+            panelAddComment = new Guna.UI2.WinForms.Guna2Panel();
+            textBoxtWriteComment = new Guna.UI2.WinForms.Guna2TextBox();
+            btnPostComment = new Guna.UI2.WinForms.Guna2Button();
+            guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             ((System.ComponentModel.ISupportInitialize)splitContainer1).BeginInit();
             splitContainer1.Panel1.SuspendLayout();
             splitContainer1.Panel2.SuspendLayout();
             splitContainer1.SuspendLayout();
-            guna2Panel1.SuspendLayout();
             panelAddComment.SuspendLayout();
+            guna2Panel1.SuspendLayout();
             SuspendLayout();
             // 
             // lbTitle
@@ -88,18 +88,6 @@
             splitContainer1.SplitterDistance = 381;
             splitContainer1.TabIndex = 1;
             // 
-            // guna2Panel1
-            // 
-            guna2Panel1.BackColor = SystemColors.MenuBar;
-            guna2Panel1.BorderRadius = 8;
-            guna2Panel1.Controls.Add(splitContainer1);
-            guna2Panel1.CustomizableEdges = customizableEdges9;
-            guna2Panel1.Location = new Point(12, 96);
-            guna2Panel1.Name = "guna2Panel1";
-            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges10;
-            guna2Panel1.Size = new Size(1276, 626);
-            guna2Panel1.TabIndex = 2;
-            // 
             // textBoxContent
             // 
             textBoxContent.BorderThickness = 0;
@@ -125,6 +113,17 @@
             textBoxContent.Size = new Size(1216, 381);
             textBoxContent.TabIndex = 0;
             // 
+            // flpComment
+            // 
+            flpComment.AutoScroll = true;
+            flpComment.Dock = DockStyle.Fill;
+            flpComment.FlowDirection = FlowDirection.TopDown;
+            flpComment.Location = new Point(0, 0);
+            flpComment.Name = "flpComment";
+            flpComment.Size = new Size(1216, 147);
+            flpComment.TabIndex = 1;
+            flpComment.WrapContents = false;
+            // 
             // panelAddComment
             // 
             panelAddComment.Controls.Add(textBoxtWriteComment);
@@ -136,24 +135,6 @@
             panelAddComment.ShadowDecoration.CustomizableEdges = customizableEdges8;
             panelAddComment.Size = new Size(1216, 40);
             panelAddComment.TabIndex = 0;
-            // 
-            // btnPostComment
-            // 
-            btnPostComment.CustomizableEdges = customizableEdges5;
-            btnPostComment.DisabledState.BorderColor = Color.DarkGray;
-            btnPostComment.DisabledState.CustomBorderColor = Color.DarkGray;
-            btnPostComment.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btnPostComment.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btnPostComment.Dock = DockStyle.Right;
-            btnPostComment.Font = new Font("Segoe UI", 9F);
-            btnPostComment.ForeColor = Color.White;
-            btnPostComment.Image = (Image)resources.GetObject("btnPostComment.Image");
-            btnPostComment.Location = new Point(1084, 0);
-            btnPostComment.Name = "btnPostComment";
-            btnPostComment.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            btnPostComment.Size = new Size(132, 40);
-            btnPostComment.TabIndex = 0;
-            btnPostComment.Text = "Gửi";
             // 
             // textBoxtWriteComment
             // 
@@ -176,16 +157,35 @@
             textBoxtWriteComment.Size = new Size(1084, 40);
             textBoxtWriteComment.TabIndex = 1;
             // 
-            // flpComment
+            // btnPostComment
             // 
-            flpComment.AutoScroll = true;
-            flpComment.Dock = DockStyle.Fill;
-            flpComment.FlowDirection = FlowDirection.TopDown;
-            flpComment.Location = new Point(0, 0);
-            flpComment.Name = "flpComment";
-            flpComment.Size = new Size(1216, 147);
-            flpComment.TabIndex = 1;
-            flpComment.WrapContents = false;
+            btnPostComment.CustomizableEdges = customizableEdges5;
+            btnPostComment.DisabledState.BorderColor = Color.DarkGray;
+            btnPostComment.DisabledState.CustomBorderColor = Color.DarkGray;
+            btnPostComment.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            btnPostComment.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            btnPostComment.Dock = DockStyle.Right;
+            btnPostComment.Font = new Font("Segoe UI", 9F);
+            btnPostComment.ForeColor = Color.White;
+            btnPostComment.Image = (Image)resources.GetObject("btnPostComment.Image");
+            btnPostComment.Location = new Point(1084, 0);
+            btnPostComment.Name = "btnPostComment";
+            btnPostComment.ShadowDecoration.CustomizableEdges = customizableEdges6;
+            btnPostComment.Size = new Size(132, 40);
+            btnPostComment.TabIndex = 0;
+            btnPostComment.Text = "Gửi";
+            // 
+            // guna2Panel1
+            // 
+            guna2Panel1.BackColor = SystemColors.MenuBar;
+            guna2Panel1.BorderRadius = 8;
+            guna2Panel1.Controls.Add(splitContainer1);
+            guna2Panel1.CustomizableEdges = customizableEdges9;
+            guna2Panel1.Location = new Point(12, 96);
+            guna2Panel1.Name = "guna2Panel1";
+            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges10;
+            guna2Panel1.Size = new Size(1276, 626);
+            guna2Panel1.TabIndex = 2;
             // 
             // ArticleForm
             // 
@@ -204,8 +204,8 @@
             splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)splitContainer1).EndInit();
             splitContainer1.ResumeLayout(false);
-            guna2Panel1.ResumeLayout(false);
             panelAddComment.ResumeLayout(false);
+            guna2Panel1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
