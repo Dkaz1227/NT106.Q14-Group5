@@ -35,7 +35,6 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ArticleForm));
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
@@ -63,7 +62,7 @@
             lbTitle.ForeColor = Color.White;
             lbTitle.Location = new Point(0, 0);
             lbTitle.Name = "lbTitle";
-            lbTitle.Padding = new Padding(10);
+            lbTitle.Padding = new Padding(10, 10, 10, 10);
             lbTitle.Size = new Size(162, 70);
             lbTitle.TabIndex = 0;
             lbTitle.Text = "Tựa đề";
@@ -72,7 +71,7 @@
             // splitContainer1
             // 
             splitContainer1.BackColor = Color.White;
-            splitContainer1.Location = new Point(28, 12);
+            splitContainer1.Location = new Point(28, 13);
             splitContainer1.Name = "splitContainer1";
             splitContainer1.Orientation = Orientation.Horizontal;
             // 
@@ -84,8 +83,9 @@
             // 
             splitContainer1.Panel2.Controls.Add(flpComment);
             splitContainer1.Panel2.Controls.Add(panelAddComment);
-            splitContainer1.Size = new Size(1216, 572);
-            splitContainer1.SplitterDistance = 381;
+            splitContainer1.Size = new Size(1216, 573);
+            splitContainer1.SplitterDistance = 380;
+            splitContainer1.SplitterWidth = 3;
             splitContainer1.TabIndex = 1;
             // 
             // textBoxContent
@@ -110,7 +110,7 @@
             textBoxContent.ScrollBars = ScrollBars.Vertical;
             textBoxContent.SelectedText = "";
             textBoxContent.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            textBoxContent.Size = new Size(1216, 381);
+            textBoxContent.Size = new Size(1216, 380);
             textBoxContent.TabIndex = 0;
             // 
             // flpComment
@@ -120,7 +120,7 @@
             flpComment.FlowDirection = FlowDirection.TopDown;
             flpComment.Location = new Point(0, 0);
             flpComment.Name = "flpComment";
-            flpComment.Size = new Size(1216, 147);
+            flpComment.Size = new Size(1216, 150);
             flpComment.TabIndex = 1;
             flpComment.WrapContents = false;
             // 
@@ -130,7 +130,7 @@
             panelAddComment.Controls.Add(btnPostComment);
             panelAddComment.CustomizableEdges = customizableEdges7;
             panelAddComment.Dock = DockStyle.Bottom;
-            panelAddComment.Location = new Point(0, 147);
+            panelAddComment.Location = new Point(0, 150);
             panelAddComment.Name = "panelAddComment";
             panelAddComment.ShadowDecoration.CustomizableEdges = customizableEdges8;
             panelAddComment.Size = new Size(1216, 40);
@@ -167,7 +167,6 @@
             btnPostComment.Dock = DockStyle.Right;
             btnPostComment.Font = new Font("Segoe UI", 9F);
             btnPostComment.ForeColor = Color.White;
-            btnPostComment.Image = (Image)resources.GetObject("btnPostComment.Image");
             btnPostComment.Location = new Point(1084, 0);
             btnPostComment.Name = "btnPostComment";
             btnPostComment.ShadowDecoration.CustomizableEdges = customizableEdges6;
@@ -181,7 +180,7 @@
             guna2Panel1.BorderRadius = 8;
             guna2Panel1.Controls.Add(splitContainer1);
             guna2Panel1.CustomizableEdges = customizableEdges9;
-            guna2Panel1.Location = new Point(12, 96);
+            guna2Panel1.Location = new Point(11, 96);
             guna2Panel1.Name = "guna2Panel1";
             guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges10;
             guna2Panel1.Size = new Size(1276, 626);
@@ -196,7 +195,7 @@
             Controls.Add(lbTitle);
             Controls.Add(guna2Panel1);
             FormBorderStyle = FormBorderStyle.FixedDialog;
-            Margin = new Padding(5);
+            Margin = new Padding(5, 5, 5, 5);
             Name = "ArticleForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Article";
