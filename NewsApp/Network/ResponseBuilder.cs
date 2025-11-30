@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NewsApp.Network
 {
-    internal class ClientSocket
+    internal class ResponseBuilder
     {
     }
 }

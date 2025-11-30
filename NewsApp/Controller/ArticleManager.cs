@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NewsApp.Controller
 {
-    internal class UserManager
+    internal class ArticleManager
     {
     }
 }

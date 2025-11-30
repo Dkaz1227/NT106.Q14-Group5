@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NewsApp.Data
 {
-    internal class User
+    internal class View
     {
     }
 }
