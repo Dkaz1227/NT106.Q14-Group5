@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1FKWFhzBJ8c=",
+  "dgSpecHash": "irsArAPkoFI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leo71\\source\\repos\\NewsApp\\NewsApp\\NewsApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ABC\\Documents\\GitHub\\NT106.Q14-Group5\\NewsApp\\NewsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABC\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
